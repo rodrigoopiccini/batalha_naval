@@ -1,4 +1,5 @@
 # 8 - jogadas do jogador
+import random
 frota_oponente = {
     'porta-aviões': [
         [[9, 1], [9, 2], [9, 3], [9, 4]]
